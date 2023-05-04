@@ -1,0 +1,4 @@
+_base_: './dsmonet_stdc2_camvid.yml'
+
+val_dataset:
+  val_path: data/camvid/test.txt
